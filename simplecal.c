@@ -2,7 +2,13 @@
 main()
 {
 add();
+{
+  printf("%d",sum);
 sub();
+  printf("%d",sub);
 mul();
+  printf("%d",mul);
 div();
+  printf("%d",div);
+}
 }
