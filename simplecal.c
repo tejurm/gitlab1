@@ -2,6 +2,8 @@
 main()
 {
 add();
+{
+  printf("%d",add);
 sub();
 mul();
 div();
