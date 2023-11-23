@@ -3,10 +3,8 @@ main()
 {
 add();
 {
-
+***************
   printf("%d",sum);
-  printf("%d",add);
-}
 ***************
 sub();
   printf("%d",sub);
