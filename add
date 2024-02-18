@@ -3,3 +3,4 @@ int main()
 {
 printf(a+b,a,b);
 }
+.
